@@ -93,6 +93,7 @@ main ul {
     margin: 0px;
     padding-left:20px;
     font-size:1.2em;
+    list-style-type: square;
 }
 
 aside ul {
@@ -105,7 +106,6 @@ aside ul {
 aside li {
     margin-top:15px;
     margin-bottom:15px;
-
 }
 
 aside p,
