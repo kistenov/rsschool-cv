@@ -177,6 +177,12 @@ main p {
     width: 65%;
 }
 
+main mark {
+    background-color: #fcc70B;
+    font-size: 1em;
+    font-weight: bold;
+}
+
 footer {
     display: flex;
     background-color:#232935;
